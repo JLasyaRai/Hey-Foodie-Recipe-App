@@ -4,8 +4,9 @@
       "id": "1",
       "title": "Chicken Kabab",
       "type": "Non-Veg",
-      "ratings": "9.0",
+      "image": "https://img-global.cpcdn.com/recipes/e406fc2174c09341/1502x1064cq70/chicken-kabab-recipe-main-photo.jpg",
       "description": "Chicken Kabab is a popular grilled or fried dish made from marinated chicken, typically mixed with spices, yogurt, and herbs. It is often skewered and cooked over charcoal, giving it a smoky flavor. Variations include Tandoori Kabab, Seekh Kabab, and Malai Kabab, each with unique spices and textures.",
+      "ratings": "5.0",
       "procedure": "To prepare delicious chicken kababs, start by cutting boneless chicken into small cubes. In a mixing bowl, combine thick yogurt, ginger-garlic paste, lemon juice, gram flour, red chili powder, garam masala, turmeric, cumin powder, coriander powder, kasuri methi, salt, and oil. Add the chicken pieces to this mixture and coat them well, ensuring all the flavors are absorbed. Cover the bowl and refrigerate for at least 2-3 hours or overnight for better taste. If using wooden skewers, soak them in water for 30 minutes to prevent burning. Once the chicken is well-marinated, thread the pieces onto the skewers. Preheat the oven to 200°C (400°F) and place the skewers on a baking tray. Cook for 15-20 minutes, turning occasionally and basting with butter for added moisture. Alternatively, grill the kababs for 10-12 minutes or pan-fry them in a little oil for 8-10 minutes until they are golden brown and fully cooked. Once done, remove the kababs from the skewers and serve hot with mint chutney, onion rings, and lemon wedges for a flavorful meal.",
       "cooking": {
         "ingredient": "500g boneless chicken (cut into cubes), 1 cup thick yogurt2 tbsp ginger-garlic paste, 1 tbsp lemon juice, 2 tbsp gram flour (besan), 1 tsp red chili powder, 1 tsp garam masala,1/2 tsp turmeric powder, 1 tsp cumin powder,1 tsp coriander powder,1 tbsp kasuri methi (dried fenugreek leaves), Salt to taste, 2 tbsp oil (for marination) ,Skewers (wooden or metal),2 tbsp butter (for basting)"
@@ -15,7 +16,8 @@
       "id": "2",
       "title": "Paneer Tikka Masala",
       "type": "Veg",
-      "ratings": "8.5",
+      "image": "https://th.bing.com/th/id/OIP.kWcDUSCdQ7Md8lG17UCNbgHaFA?rs=1&pid=ImgDetMain.",
+      "ratings": "4.5",
       "description": "Paneer Tikka Masala is a rich, creamy, and flavorful Indian dish featuring grilled paneer cubes marinated in aromatic spices and yogurt, then simmered in a luscious tomato-based gravy infused with butter, cream, and fragrant spices, making it the perfect indulgence to enjoy with naan, roti, or steamed rice.",
       "procedure": "Start by preparing the paneer tikka. In a bowl, mix yogurt, ginger-garlic paste, lemon juice, gram flour, red chili powder, garam masala, turmeric, cumin powder, coriander powder, kasuri methi, salt, and oil to form a thick marinade. Add the paneer cubes and coat them well. Cover and refrigerate for at least 30 minutes to 1 hour. Meanwhile, heat a grill pan or oven, grease it with oil, and cook the marinated paneer pieces until they are golden brown and slightly charred. You can also use a tandoor or air fryer for a smoky flavor. For the masala gravy, heat butter in a pan and add cumin seeds. Once they splutter, add chopped onions and sauté until golden brown. Add ginger-garlic paste and cook until the raw smell disappears. Next, add tomato puree and cook until the oil separates. Stir in turmeric, red chili powder, garam masala, salt, and kasuri methi. Mix well and let it cook for a few minutes. Add fresh cream and stir to get a rich, creamy texture. Now, add the grilled paneer tikka pieces to the masala and mix gently to coat them with the gravy. Let it simmer for 2-3 minutes. Finally, garnish with fresh coriander leaves and serve hot with naan, roti, or steamed rice.",
       "cooking": {
@@ -26,8 +28,9 @@
       "id": "3",
       "title": "Mushroom Munchurian",
       "type": "Veg",
-      "ratings": "9.5",
-      "description": "Mushroom Manchurian is a delicious Indo-Chinese dish featuring crispy, batter-fried mushrooms tossed in a spicy, tangy, and flavorful sauce made with garlic, soy sauce, chili sauce, vinegar, and bell peppers, creating a perfect balance of crunch and saucy goodness, best enjoyed with fried rice or noodles.",
+      "image": "https://i1.wp.com/cookingfromheart.com/wp-content/uploads/2017/07/Mushroom-Manchurian-3.jpg?resize=1024%2C683&ssl=1",
+      "ratings": "4.0",
+      "description": "Mushroom Manchurian is a delicious Indo-Chinese dish featuring crispy, batter-fried mushrooms tossed in a spicy, tangy, and flavorful sauce made with garlic, soy sauce, chili sauce, vinegar, and bell peppers, creating a perfect balance of crunch and best enjoyed with fried rice or noodles.",
       "procedure": "To begin, clean the mushrooms and pat them dry. In a bowl, mix cornflour, all-purpose flour, black pepper, salt, and ginger-garlic paste. Add water gradually to make a smooth batter. Dip the mushrooms in the batter and deep-fry them in hot oil until golden and crispy, then set them aside. In another pan, heat oil and sauté chopped onions, capsicum, and garlic until they turn slightly soft. Add soy sauce, tomato ketchup, red chili sauce, vinegar, sugar, and the cornflour slurry while stirring continuously. Let the sauce thicken slightly, then add the fried mushrooms and toss well to coat them evenly in the sauce. Garnish with chopped spring onions and serve hot as a starter or side dish with fried rice or noodles. Enjoy your crispy, spicy, and tangy Mushroom Manchurian! ",
       "cooking": {
         "ingredient": "200g button mushrooms, ½ cup cornflour, ¼ cup all-purpose flour (maida), 1 teaspoon ginger-garlic paste, ½ teaspoon black pepper powder, salt to taste, and water for making the batter. For the Manchurian sauce, take 2 tablespoons oil, 1 finely chopped onion, 1 finely chopped capsicum, 1 tablespoon soy sauce, 1 tablespoon tomato ketchup, 1 teaspoon red chili sauce, ½ teaspoon vinegar, 1 teaspoon cornflour (mixed with 2 tablespoons water to make a slurry), ½ teaspoon sugar, and 2 tablespoons chopped spring onions for garnish."
@@ -37,8 +40,9 @@
       "id": "4",
       "title": "Hyderbad Biryani",
       "type": "Non-Veg",
+      "image": "https://curlytales.com/wp-content/uploads/2022/07/Untitled-design-2022-07-25T105549.084-1170x658.jpg",
       "description": "Hyderabadi Biryani is a fragrant, rich, and flavorful rice dish made with aromatic basmati rice, tender marinated meat or vegetables, and a blend of exotic spices, slow-cooked to perfection using the traditional dum method, resulting in a royal feast bursting with taste, best enjoyed with raita and salan.",
-      "ratings": "8.5",
+      "ratings": "3.5",
       "procedure": "Start by washing and soaking the basmati rice for 30 minutes. In a large pot, heat oil or ghee and fry the sliced onions until they turn golden brown and crispy, then set them aside. In the same pot, add whole spices, followed by ginger-garlic paste, and sauté until fragrant. Add the chicken pieces and cook for a few minutes before adding tomatoes, yogurt, turmeric, red chili powder, garam masala, cumin powder, coriander powder, salt, and green chilies. Cook until the chicken is tender and the gravy thickens. Meanwhile, in a separate pot, boil water with salt and whole spices, then add the soaked rice and cook until it is 70% cooked, then drain the excess water.In a heavy-bottomed pan, start layering the biryani by spreading a layer of chicken at the bottom, followed by a layer of rice. Sprinkle fried onions, coriander leaves, mint leaves, saffron milk, and lemon juice over the rice. Repeat the layers if needed. Cover the pan with a tight lid and cook on low heat (Dum method) for 20-25 minutes to allow the flavors to blend. Once done, gently mix the layers and serve hot with raita, boiled eggs, and salad for an authentic Hyderabadi Biryani experience!",
       "cooking": {
         "ingredient": "2 cups of basmati rice, 500g of bone-in chicken, 1 cup of thick yogurt, 2 large onions (thinly sliced), 2 tomatoes (chopped), 2 tablespoons of ginger-garlic paste, 1 teaspoon of turmeric powder, 1 teaspoon of red chili powder, 1 teaspoon of garam masala, 1 teaspoon of cumin powder, 1 teaspoon of coriander powder, ½ teaspoon of saffron soaked in warm milk, 2 tablespoons of lemon juice, ¼ cup of fresh coriander leaves, ¼ cup of mint leaves, 4 tablespoons of ghee or oil, 2-3 green chilies (slit), whole spices (bay leaves, cinnamon, cloves, cardamom, star anise), and salt to taste."
@@ -48,8 +52,9 @@
       "id": "5",
       "title": "Chicken Handi",
       "type": "Non-Veg",
+      "image": "https://admin.thecookaway.com/media/catalog/product/c/h/chicken_handi-min.jpg",
       "description": "Chicken Handi is a rich, creamy, and aromatic dish cooked in a traditional clay pot (handi), featuring tender chicken pieces simmered in a luscious gravy made with yogurt, tomatoes, onions, cream, and a blend of flavorful spices, giving it a velvety texture and irresistible taste.",
-      "ratings": "9.0",
+      "ratings": "5.0",
       "procedure": "To begin, heat oil or ghee in a deep-bottomed handi (traditional clay pot or heavy-bottomed pan) over medium heat. Add finely chopped onions and sauté until golden brown. Then, add ginger-garlic paste and green chilies, frying until the raw smell disappears. Stir in the tomato puree and cook for a few minutes until the oil starts separating. Now, add turmeric, red chili powder, coriander powder, cumin powder, and black pepper, mixing well. Add the chicken pieces and cook for 5-7 minutes until they turn slightly golden. Lower the heat and mix in the thick yogurt, stirring continuously to prevent curdling. Cover and let it cook for about 15-20 minutes, adding water as needed to adjust the consistency. Once the chicken is tender, stir in fresh cream, kasuri methi, and garam masala, cooking for another 5 minutes. Finally, add butter and garnish with fresh coriander leaves. Serve hot with naan, roti, or steamed rice for a rich and flavorful meal.",
       "cooking": {
         "ingredient": "500g boneless chicken, 1 cup thick yogurt, 2 large onions (finely chopped), 2 tomatoes (pureed), 1 tablespoon ginger-garlic paste, 2 green chilies (slit), 1/2 cup fresh cream, 1 teaspoon red chili powder, 1 teaspoon turmeric powder, 1 teaspoon garam masala, 1 teaspoon coriander powder, 1 teaspoon cumin powder, 1 teaspoon kasuri methi (dried fenugreek leaves), 1/2 teaspoon black pepper powder, Salt to taste, 3 tablespoons oil or ghee, 2 tablespoons butter, 1/2 cup water, and fresh coriander leaves for garnish."
@@ -59,22 +64,48 @@
       "id": "6",
       "title": "Soya Chunks curry",
       "type": "Veg",
+      "image": "https://images.slurrp.com/prod/recipe_images/transcribe/nan/Soya-Chunks-Curry.webp",
       "description": "Soya Chunks Curry is a protein-rich, flavorful dish made with tender soya chunks simmered in a thick, aromatic gravy of onions, tomatoes, yogurt, and a blend of warm spices, creating a hearty and nutritious meal that pairs perfectly with steamed rice or roti for a wholesome dining experience.",
-      "ratings": "8.0",
+      "ratings": "5.0",
       "procedure": "Start by soaking 1 cup of soya chunks in hot water for 10 minutes until they soften. Once done, drain the water and squeeze out excess moisture. In a pan, heat 2 tablespoons of oil and sauté 1 finely chopped onion until golden brown. Add 1 tablespoon of ginger-garlic paste and cook until the raw smell disappears. Next, add 2 finely chopped tomatoes and cook until they turn soft and mushy. Stir in 1 teaspoon of turmeric powder, 1 teaspoon of red chili powder, 1 teaspoon of coriander powder, and 1 teaspoon of garam masala, mixing well to combine the flavors. Add salt to taste and let the spices cook for a minute. Now, add the soaked soya chunks and stir well to coat them evenly with the masala. Pour in 1 cup of water or coconut milk, depending on your preference, and let the curry simmer on low heat for 10 minutes to allow the flavors to blend. Finally, garnish with fresh coriander leaves and serve hot with rice or chapati. Enjoy your protein-rich, flavorful soya chunks curry!",
       "cooking": {
         "ingredient": "1 cup of soya chunks, which should be soaked in hot water until softened. For cooking, use 2 tablespoons of oil along with 1 finely chopped onion and 1 tablespoon of ginger-garlic paste to enhance the flavor. The curry gets its richness from 2 finely chopped tomatoes, which add a tangy taste. A blend of aromatic spices, including 1 teaspoon of turmeric powder, 1 teaspoon of red chili powder, 1 teaspoon of coriander powder, and 1 teaspoon of garam masala, gives the dish its signature flavor. Salt to taste is essential to balance the spices. For the curry base, use 1 cup of water or coconut milk, depending on whether you prefer a light or creamy texture. Finally, garnish with fresh coriander leaves for a burst of freshness and aroma."
       }
     },
     {
-      "id": "a6f5",
-      "title": "Chicken curry",
+      "id": "0694",
+      "title": "Chicken Curry",
       "type": "Non-Veg",
-      "ratings": "9",
-      "description": "hellloooooooooooo",
-      "procedure": "hiiiiiiiiiiiiiiiiiiiiiiiiiiii",
+      "image": "https://th.bing.com/th/id/OIP.FUELuQpb7iRIe20qRCRGVwHaK1?rs=1&pid=ImgDetMain",
+      "ratings": "4.5",
+      "description": "Chicken Curry is a flavorful and aromatic dish made with chicken cooked in a spiced gravy. It is prepared using a blend of onions, tomatoes, garlic, ginger, and a variety of spices like turmeric, cumin, coriander, and garam masala.",
+      "procedure": "To prepare Chicken Curry, start by heating oil in a pan and sautéing finely chopped onions until golden brown. Add minced garlic, ginger, and green chilies, stirring until fragrant. Next, add chopped tomatoes and cook until soft, then blend in spices like turmeric, cumin, coriander, red chili powder, and garam masala. Stir well to release the flavors. Add cleaned chicken pieces and coat them with the masala, cooking for a few minutes to seal in the juices. Pour in water or coconut milk, cover, and let it simmer until the chicken is tender and the curry thickens. Finally, garnish with fresh coriander leaves and serve hot with rice or naan.",
       "cooking": {
-        "ingredient": "gooooooood morning folks"
+        "ingredient": "To prepare Chicken Curry, you will need 500g of chicken, cut into pieces, along with 2 finely chopped onions and 2 pureed tomatoes. Add 1 tablespoon of ginger-garlic paste and 2 slit green chilies for extra flavor. Heat 2 tablespoons of oil or ghee in a pan, then add 1 teaspoon of turmeric powder, 1 teaspoon of cumin powder, 1 teaspoon of coriander powder, 1 teaspoon of red chili powder (adjust as per taste), and 1 teaspoon of garam masala. Season with 1 teaspoon of salt or as needed. Pour in 1 cup of water or coconut milk for a richer taste. To enhance the aroma, you can also add 5-6 curry leaves. For a creamier texture, mix in ½ cup of yogurt. Garnish with freshly chopped coriander leaves and serve hot with rice or naan"
+      }
+    },
+    {
+      "id": "633b",
+      "title": "Gobi Munchurian",
+      "type": "Veg",
+      "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/02/gobi-manchurian-cauliflower-manchurian.jpg",
+      "ratings": "4.5",
+      "description": "Gobi Manchurian is a popular Indo-Chinese dish featuring crispy, batter-fried cauliflower florets tossed in a spicy, tangy, and savory sauce made with soy sauce, garlic, ginger, and chili. It’s a delicious appetizer or side dish.",
+      "procedure": "Begin by blanching the cauliflower florets in hot water for a few minutes, then drain and pat them dry. In a bowl, mix all-purpose flour, cornflour, salt, black pepper, and water to form a thick batter. Coat the cauliflower florets evenly in the batter and deep fry them in hot oil until golden brown and crispy, then set aside. For the sauce, heat two tablespoons of oil in a pan and sauté the chopped garlic, ginger, and green chilies until fragrant. Add the onions and bell peppers, stirring until they are slightly tender. Next, pour in soy sauce, chili sauce, and tomato ketchup, mixing well. Add a slurry of cornflour and water to thicken the sauce. Finally, toss the fried cauliflower in the prepared sauce, ensuring an even coating. Serve hot as a delicious appetizer or side dish.",
+      "cooking": {
+        "ingredient": "To prepare Gobi Manchurian, you will need one medium-sized cauliflower cut into bite-sized florets, half a cup of all-purpose flour, a quarter cup of cornflour, half a teaspoon of salt, and half a teaspoon of black pepper. Water is required to make a smooth batter, and oil is needed for deep frying. For the Manchurian sauce, use two tablespoons of oil, one tablespoon of finely chopped garlic, one teaspoon of grated ginger, two chopped green chilies, a quarter cup of chopped onions, and a quarter cup of chopped bell peppers."
+      }
+    },
+    {
+      "id": "196e",
+      "title": "Fish Fry",
+      "type": "Non-Veg",
+      "image": "https://i.pinimg.com/originals/e7/bb/be/e7bbbe8edcf24f812d58f8bc9de7f396.jpg",
+      "ratings": "4.0",
+      "description": "Fish fry is a crispy, flavorful dish made by marinating fish in a blend of spices, lemon juice, and garlic, then shallow or deep-frying until golden brown. It’s a popular seafood delicacy, best enjoyed with chutney, salad, or rice.",
+      "procedure": "To prepare fish fry, clean and pat dry the fish fillets. Marinate them with turmeric, red chili powder, salt, lemon juice, and ginger-garlic paste for at least 30 minutes. Heat oil in a pan, coat the fish with rice flour or semolina for extra crispiness, and shallow fry on medium heat until golden brown and cooked through. Flip occasionally to ensure even cooking. Once done, remove from the pan, drain excess oil on a paper towel, and serve hot with lemon wedges and mint chutney.",
+      "cooking": {
+        "ingredient": "For a delicious fish fry, start by taking 500 grams of fish fillets and marinating them with 1 teaspoon of turmeric powder, 1 teaspoon of red chili powder, 1 teaspoon of salt, 1 tablespoon of lemon juice, and 1 tablespoon of ginger-garlic paste. Let the fish rest for at least 30 minutes to absorb the flavors. After marination, coat each piece with 2 tablespoons of rice flour or semolina to give it a crispy texture. Heat 3 tablespoons of oil in a pan over medium heat and gently place the fish pieces. Fry them for 3–4 minutes on each side until they turn golden brown and crispy. Once done, remove them from the pan and drain the excess oil on a paper towel. Garnish with fresh coriander leaves and lemon wedges before serving."
       }
     }
   ]
