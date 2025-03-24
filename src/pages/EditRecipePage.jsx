@@ -6,6 +6,7 @@ const EditRecipePage = ({updateRecipeSubmit}) => {
   const recipe = useLoaderData()
    const[title, setTitle]= useState(recipe.title);
    const [type, setType] = useState(recipe.type);
+   const [image, setImage]=useState(recipe.image);
    const [ratings, setRatings] =useState(recipe.ratings);
    const [procedure, setProcedure] = useState(recipe.procedure);
    const [description, setDescription] = useState(recipe.description);
@@ -22,6 +23,7 @@ const EditRecipePage = ({updateRecipeSubmit}) => {
             id,
             title,
             type,
+            image,
             ratings,
             description,
             procedure,
@@ -153,7 +155,18 @@ const EditRecipePage = ({updateRecipeSubmit}) => {
             ></textarea>
           </div>
 
-        
+          <div className="mb-4">
+              <label htmlFor="image-url" className="block text-gray-700 font-bold mb-2">Add Image</label>
+              <input
+                type="text"
+                id="image-url"
+                name="image-url"
+                className="border rounded w-full py-2 px-3"
+                placeholder="Paste image URL here"
+                value={image}
+                onChange={(e) => setImage(e.target.value)}
+              />
+            </div>
 
           <div>
             <button
