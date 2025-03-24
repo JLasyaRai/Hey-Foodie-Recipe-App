@@ -11,7 +11,7 @@ const Recipelistings = ({isHome = false}) => {
 
   useEffect(() => {
     const fetchRecipes = async () => {
-      const apiUrl = isHome ? 'http://localhost:8000/recipes?_limit=3' : 'http://localhost:8000/recipes';
+      const apiUrl = isHome ? 'http://localhost:8080/recipes?_limit=3' : 'http://localhost:8080/recipes';
   
       try {
         const res = await fetch(apiUrl);
