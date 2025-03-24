@@ -8,7 +8,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "server": "json-server --watch src/recipes.json --port 8000"
+    "server": "json-server --watch src/recipes.json --port 8080"
   },
   "dependencies": {
     "@emotion/react": "^11.14.0",
