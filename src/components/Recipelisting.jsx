@@ -8,6 +8,13 @@ const Recipelisting = ({recipe}) => {
   
   return (
     <div className="bg-white rounded-xl shadow-md relative">
+         {recipe.image && (
+        <img
+          src={recipe.image}
+          alt={recipe.title}
+          className="w-full h-48 object-cover rounded-t-xl"
+        />
+      )}
                  <div className="p-4">
                    <div className="mb-6">
                      <div className="text-gray-600 my-2">{recipe.type}</div>
