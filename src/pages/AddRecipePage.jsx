@@ -5,10 +5,12 @@ import { useNavigate } from 'react-router-dom';
 const AddRecipePage = ({addRecipeSubmit}) => {
     const[title, setTitle]= useState('');
     const [type, setType] = useState('Non-Veg');
+    const [image, setImage] =useState('');
     const [ratings, setRatings] =useState('');
     const [procedure, setProcedure] = useState('');
     const [description, setDescription] = useState('');
     const [cookingIngredient, setCookingIngredient] = useState('');
+    
     
     const navigate = useNavigate();
 
@@ -18,13 +20,15 @@ const AddRecipePage = ({addRecipeSubmit}) => {
         const newRecipe = {
             title,
             type,
+            image,
             ratings,
             description,
             procedure,
             cooking :{
                 ingredient : cookingIngredient
                
-            }
+            },
+            
         }
         addRecipeSubmit(newRecipe);
         return navigate('/recipes');
@@ -146,13 +150,27 @@ const AddRecipePage = ({addRecipeSubmit}) => {
             ></textarea>
           </div>
 
+
+          <div className="mb-4">
+              <label htmlFor="image-url" className="block text-gray-700 font-bold mb-2">Add Image</label>
+              <input
+                type="text"
+                id="image-url"
+                name="image-url"
+                className="border rounded w-full py-2 px-3"
+                placeholder="Paste image URL here"
+                value={image}
+                onChange={(e) => setImage(e.target.value)}
+              />
+            </div>
+
+           
         
 
           <div>
             <button
               className="bg-indigo-500 hover:bg-indigo-600 text-white font-bold py-2 px-4 rounded-full w-full focus:outline-none focus:shadow-outline"
-              type="submit"
-            >
+              type="submit">
               Add Recipe
             </button>
           </div>
