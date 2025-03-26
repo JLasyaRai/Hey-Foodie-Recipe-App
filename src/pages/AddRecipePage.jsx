@@ -6,7 +6,7 @@ const AddRecipePage = ({addRecipeSubmit}) => {
     const[title, setTitle]= useState('');
     const [type, setType] = useState('Non-Veg');
     const [image, setImage] =useState('');
-    const [ratings, setRatings] =useState('');
+    const [preptime, setPreptime] =useState('');
     const [procedure, setProcedure] = useState('');
     const [description, setDescription] = useState('');
     const [cookingIngredient, setCookingIngredient] = useState('');
@@ -21,7 +21,7 @@ const AddRecipePage = ({addRecipeSubmit}) => {
             title,
             type,
             image,
-            ratings,
+            preptime,
             description,
             procedure,
             cooking :{
@@ -78,16 +78,16 @@ const AddRecipePage = ({addRecipeSubmit}) => {
           </div>
           <div className="mb-4">
             <label className="block text-gray-700 font-bold mb-2"
-              >Ratings</label >
+              >Preparation-Time</label >
             <input
               type="text"
-              id="ratings"
-              name="ratings"
+              id="preptime"
+              name="preptime"
               className="border rounded w-full py-2 px-3 mb-2"
-              placeholder="eg.9.0"
+              placeholder='Add the prepartion time'
               required
-              value ={ratings}
-              onChange={(e)=> setRatings(e.target.value)}
+              value ={preptime}
+              onChange={(e)=> setPreptime(e.target.value)}
             />
           </div>
 
