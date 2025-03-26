@@ -1,7 +1,7 @@
 import React from 'react'
 
-import {FaStar} from 'react-icons/fa';
 import {Link} from 'react-router-dom';
+import {FaClock} from 'react-icons/fa';
 
 const Recipelisting = ({recipe}) => {
     let description = recipe.description;
@@ -29,8 +29,8 @@ const Recipelisting = ({recipe}) => {
      
                    <div className="flex flex-col lg:flex-row justify-between mb-4">
                      <div className="text-gray-600 mb-3">
-                      <FaStar className='text-yellow-600 inline text-lg mb-1 mr-1'/>
-                       {recipe.ratings}
+                      <FaClock className='text-yellow-600 inline text-lg mb-1 mr-1'/>
+                       {recipe.preptime}
                      </div>
                      <Link
                        to={`/recipes/${recipe.id}`}
